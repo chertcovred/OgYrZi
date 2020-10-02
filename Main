@@ -1,0 +1,10 @@
+#include <iostream>
+#include <math.h>
+
+void main() 
+{
+	using namespace std;
+	setlocale(LC_ALL, ".1251");
+
+
+}
